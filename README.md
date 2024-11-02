@@ -1,4 +1,4 @@
-# Wine Classification Using Decision Trees in Python
+# Wine Classification Using Decision Tree in Python
 The project aims to develop a decision tree model for predicting wine classification **(Class 0, Class 1, or Class 2)** based on thirteen distinct chemical measurements obtained from various wine samples. The input features utilized in the model include: Alcohol, Malic Acid, Ash, Alcalinity of Ash, Magnesium, Total Phenols, Flavanoids, Nonflavanoid Phenols, Proanthocyanins, Color Intensity, Hue, OD280/OD315 of diluted wines, and Proline.
 
 This classification problem is critical for the wine industry, as it enables businesses to accurately and consistently categorize wines based on their chemical composition. By implementing a reliable decision tree model, wine producers can enhance their quality control processes, ensuring that their products meet both industry standards and consumer expectations.
